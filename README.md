@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apkostadinov
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Python applications, Data Processing and Analytics
 - 🌱 I’m currently learning OOP and Python libraries
 - 📫 You can reach me via DMs here
