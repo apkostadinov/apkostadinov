@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Python applications, Data Processing and Analytics
-- 🌱 I’m currently learning OOP, Python libraries, SPSS and related VBScript
+- 🌱 I’m currently learning PostGRE DBs and Python ORM, Python libraries, SPSS and related VBScript
 - 📫 You can reach me via DMs here or over on [linkedin.com/apkostadinov](https://www.linkedin.com/in/apkostadinov/)
 - 🎓 Graduated Harvard's CS50P, SoftUni Python Basics, Fundamentals and Advanced.
 - ⚡ Fun fact: I also have a Masters Degree in Architecture, specializing in Residential Buildings.
