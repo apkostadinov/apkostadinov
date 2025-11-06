@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 💻 Interests: Python applications, Data Processing & Analytics
+- 💻 Interests: Python applications, Data Processing & Analytics, BIM Management
 - 📚 Currently learning: PostgreSQL, Python ORM & libraries, SPSS, VBScript
 - 🎓 Education: Harvard CS50P, SoftUni Python (Basics → Advanced → Postgre/ORM), M.Arch in Residential Buildings
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/apkostadinov/) or via GitHub DMs
