@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Alex
-- 💻 Interests: Python applications, Data Processing & Analytics, BIM Management
-- 📚 Currently learning: PostgreSQL, Django, FastAPI & other
-- 🎓 Education: Harvard CS50P, SoftUni Python (Basics → Advanced → Postgre/ORM → Django), M.Arch in Residential Architecture
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/apkostadinov/) or via GitHub DMs
-- 😎 Fun facts: I love experimenting with Linux on spare laptops 🐧, I’ve set up my first snowboard for all-mountain riding 🏂, and I enjoy learning to kitesurfing 🌊🪁.
+👋 Hi, I’m Alex
+
+💻 Interests: Python Development, Backend Systems, Data Processing & Automation
+
+📚 Currently learning: Computer Science fundamentals, algorithms & data structures, Django, FastAPI & systems programming
+
+🎓 Education: Harvard CS50P, SoftUni Python (Basics → Advanced → ORM → Django), M.Arch in Residential Architecture
+
+🛠️ Projects: Building backend systems and experimenting with Python, async programming, networking & data processing
+
+📫 Reach me: LinkedIn or via GitHub DMs
 
 <!---
 apkostadinov/apkostadinov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
