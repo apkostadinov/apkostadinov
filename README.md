@@ -5,7 +5,7 @@
 
 🔧 **Interests:** Python Development, Backend Engineering, Automation, Networking & Distributed Systems.
 
-🧩 Focus: Backend development, asynchronous programming and building reliable software systems.
+🧩 **Focus:** Backend development, asynchronous programming and building reliable software systems.
 
 🎓 **Education & Training:**
 - Harvard CS50P – Introduction to Programming with Python
