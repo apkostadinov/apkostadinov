@@ -9,7 +9,7 @@
 
 🎓 **Education & Training:**
 - Harvard CS50P – Introduction to Programming with Python
-- SoftUni Python – Basics, Fundamentals, Advanced, PostgreSQL & ORM, Django
+- SoftUni Python – Basics, Fundamentals, Advanced, PostgreSQL & ORM, Django, FastAPI
 
 🛠️ **Technologies:** Python • Django • PostgreSQL • FastAPI • Docker • Linux • Git
 
